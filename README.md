@@ -4,7 +4,7 @@ This is based on the outline of the CBF method from Lee et al. 2018.
 
 The module requires the following packages:  iris, numpy, scipy, eofs
 
-The module's primary function has the following usage: 
+The module's primary function has the following usage:
 
     cbf,cbf_perc,eof,eof_perc = cbfs.cbfs(model_file_path, model_variable_name, observations_file_path, observations_variable_name, nmode)
   
